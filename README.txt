@@ -1,8 +1,10 @@
 word2vec
 ========
 
-makefile and some source has been modified for Windows compilation
-i used original word2vec forked from googlecode to githuab and word2vec windows patches from https://github.com/zhangyafeikimi/word2vec-win32
+- makefile and some source has been modified for Windows compilation
+- memory patch for word2vec has been applied https://code.google.com/p/word2vec/issues/detail?id=2
+
+i used original word2vec forked from googlecode to github and word2vec windows patches from https://github.com/zhangyafeikimi/word2vec-win32
 
 Tools for computing distributed representtion of words
 ------------------------------------------------------
